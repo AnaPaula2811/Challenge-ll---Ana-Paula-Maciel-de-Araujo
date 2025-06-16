@@ -1,5 +1,3 @@
-# Challenge-ll---Ana-Paula-Maciel-de-Araujo
-
   Durante este desafio, o objetivo foi ajudar o Senhor João a decidir qual das quatro lojas fictícias da rede Alura Store deve ser vendida, com base em dados de desempenho, vendas e avaliações. A análise considerou três critérios principais: o faturamento total, a avaliação média dos consumidores e o custo médio de frete de cada loja. Esses fatores foram escolhidos por representarem indicadores fundamentais de eficiência operacional e comercial.
 
   Ao analisar os três critérios de forma integrada, a Loja 4 se destaca negativamente por ter o menor faturamento e avaliações medianas, apesar de seu bom desempenho logístico. Essa combinação indica uma baixa eficiência geral, sem diferenciais competitivos que justifiquem sua permanência. Diante disso, recomenda-se que o Senhor João considere a venda definitiva da Loja 4, permitindo o redirecionamento de recursos para lojas com melhor retorno financeiro e aceitação do público.
